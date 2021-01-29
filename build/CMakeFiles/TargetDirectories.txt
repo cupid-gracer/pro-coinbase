@@ -1,3 +1,0 @@
-/home/cupid/work/pro-coinbase/build/CMakeFiles/edit_cache.dir
-/home/cupid/work/pro-coinbase/build/CMakeFiles/rebuild_cache.dir
-/home/cupid/work/pro-coinbase/build/CMakeFiles/coinbase.dir
